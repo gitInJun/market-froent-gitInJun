@@ -7,7 +7,7 @@ function HaderPage() {
     return (
         <div id="header-area">
             <Link to="/">
-                <img src="/images/icons/logo.png" />
+                <img src="/images/icons/logo.png" /> <p>16:43</p>
             </Link>
             <Button
                 size="large"
